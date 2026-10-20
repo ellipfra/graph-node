@@ -1,0 +1,9 @@
+{
+  "name": "overlapping-batches-repro",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "@graphprotocol/graph-cli": "0.97.1",
+    "@graphprotocol/graph-ts": "0.38.0"
+  }
+}
